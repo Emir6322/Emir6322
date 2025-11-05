@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Emir6322/Emir6322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python-developer**
 
-Here are some ideas to get you started:
+##Hard skills:##
+- `*Python, ООП, algorithms*`
+- `*Telegram, pyrogram*`
+- `*PyGame*`
+- `*Flask, REST API*`
+- `*SQLite*`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##📌My projects:##
+- `*[Flask Site](Emir6322/Antontriton-code )*`
+- `*[Telegram bot](Emir6322/t.me-bot )*`
+- `*[AI for predicitons](Emir6322/AI-that-recognize-animals )*`
+- `*[Pygame game](Emir6322/FrogGame )*`
