@@ -2,14 +2,14 @@
 
 **Python-developer**
 
-##Hard skills:
+Hard skills:
 - `*Python, ООП, algorithms*`
 - `*Telegram, pyrogram*`
 - `*PyGame*`
 - `*Flask, REST API*`
 - `*SQLite*`
 
-##📌My projects:
+📌My projects:
 - `*[Flask Site](Emir6322/Antontriton-code )*`
 - `*[Telegram bot](Emir6322/t.me-bot )*`
 - `*[AI for predicitons](Emir6322/AI-that-recognize-animals )*`
